@@ -5,16 +5,16 @@
 
 ### About me
 
-- Following financial and crypto markets since I was 18
-- Building my own tools for market analysis, risk management and automated trading
-- Interested in quantitative strategies, market data engineering and AI-assisted decision making
+- Following financial and crypto markets since I was 18.
+- Building my own tools for market analysis, risk management and automated trading.
+- Interested in quantitative strategies, market data engineering and AI-assisted decision making.
 
 ### Focus areas
 
-- **Market data:** real-time streaming (WebSocket), exchange REST APIs, data pipelines
-- **Trading systems:** signal scoring, volatility-based position sizing, backtesting
-- **Risk management:** stop-loss / take-profit planning, leverage control, drawdown guards
-- **Infrastructure:** Linux servers, systemd services, secure remote access
+- **Market data:** real-time streaming (WebSocket), exchange REST APIs, data pipelines.
+- **Trading systems:** signal scoring, volatility-based position sizing, backtesting.
+- **Risk management:** stop-loss / take-profit planning, leverage control, drawdown guards.
+- **Infrastructure:** Linux servers, systemd services, secure remote access.
 
 ### Tech stack
 
